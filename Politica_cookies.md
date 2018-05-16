@@ -1,10 +1,10 @@
-Fecha de actualización: 29/04/2018
+Fecha de actualización: 16/05/2018
 
 # Información sobre las cookies.
 
-## Qué es una cookies
+## Qué son las cookies
 
-Las cookies son usualmente son pequeños archivos de texto y se almacenan en el directorio del navegador de tu ordenador o en las subcarpetas de datos de programa. Las cookies se crean cuando utilizas tu navegador para visitar un sitio web que las utiliza para hacer un seguimiento de tus movimientos por el sitio, ayudarte a indicarte dónde dejaste la navegación, recordar tu inició de sesión y selección de tema, preferencias y otras funciones de personalización. A menudo las cookies son indispensables en las webs que tienen bases de datos muy grandes, requieren inicio de sesión, tienen temas personalizables y otras funciones avanzadas.
+Las cookies usualmente son pequeños archivos de texto que se almacenan en el directorio del navegador de tu ordenador o en las subcarpetas de datos de programa. Las cookies se crean cuando utilizas tu navegador para visitar un sitio web que las utiliza para hacer un seguimiento de tus movimientos por el sitio, ayudarte a indicarte dónde dejaste la navegación, recordar tu inicio de sesión y selección de tema, preferencias y otras funciones de personalización. A menudo las cookies son indispensables en las webs que tienen bases de datos muy grandes, requieren inicio de sesión, tienen temas personalizables y otras funciones avanzadas.
 
 ## Tipos de cookies
 
